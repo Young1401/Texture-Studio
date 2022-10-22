@@ -1,0 +1,60 @@
+//Map Exported with Texture Studio By: [uL]Pottus////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////and Crayder////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Map Information////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+	Exported on "2022-08-29 08:18:27" by "Lenz"
+	Created by "Lenz"
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Remove Buildings///////////////////////////////////////////////////////////////////////////////////////////////
+RemoveBuildingForPlayer(playerid, 6138, 657.570, -1498.329, 19.328, 0.250);
+RemoveBuildingForPlayer(playerid, 6140, 657.570, -1498.329, 19.328, 0.250);
+RemoveBuildingForPlayer(playerid, 762, 680.945, -1522.910, 15.742, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 682.648, -1533.829, 10.453, 0.250);
+RemoveBuildingForPlayer(playerid, 620, 682.304, -1530.819, 8.156, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 682.570, -1512.239, 13.109, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 682.648, -1508.479, 10.453, 0.250);
+RemoveBuildingForPlayer(playerid, 620, 678.781, -1512.800, 13.390, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 671.250, -1508.609, 12.656, 0.250);
+RemoveBuildingForPlayer(playerid, 620, 681.843, -1504.030, 13.906, 0.250);
+RemoveBuildingForPlayer(playerid, 762, 680.945, -1496.099, 15.742, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 681.640, -1485.040, 12.703, 0.250);
+RemoveBuildingForPlayer(playerid, 620, 677.664, -1485.780, 7.679, 0.250);
+RemoveBuildingForPlayer(playerid, 1297, 674.078, -1484.920, 16.921, 0.250);
+RemoveBuildingForPlayer(playerid, 762, 680.945, -1468.630, 15.742, 0.250);
+RemoveBuildingForPlayer(playerid, 620, 682.859, -1464.920, 11.382, 0.250);
+RemoveBuildingForPlayer(playerid, 1297, 675.601, -1457.880, 16.921, 0.250);
+RemoveBuildingForPlayer(playerid, 1297, 674.078, -1514.630, 16.921, 0.250);
+RemoveBuildingForPlayer(playerid, 759, 686.812, -1441.130, 13.492, 0.250);
+RemoveBuildingForPlayer(playerid, 759, 685.476, -1443.630, 13.492, 0.250);
+RemoveBuildingForPlayer(playerid, 759, 684.648, -1442.160, 13.492, 0.250);
+RemoveBuildingForPlayer(playerid, 621, 686.171, -1442.859, 10.453, 0.250);
+
+//Objects////////////////////////////////////////////////////////////////////////////////////////////////////////
+new tmpobjid;
+tmpobjid = CreateDynamicObject(3829, 656.489196, -1478.285034, 17.526460, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 1, 10765, "airportgnd_sfse", "black64", 0x00000000);
+tmpobjid = CreateDynamicObject(3829, 656.489196, -1468.355102, 17.526460, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 1, 10765, "airportgnd_sfse", "black64", 0x00000000);
+tmpobjid = CreateDynamicObject(3829, 656.489196, -1458.394287, 17.526460, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 1, 10765, "airportgnd_sfse", "black64", 0x00000000);
+tmpobjid = CreateDynamicObject(3446, 673.609436, -1471.333496, 17.281541, 0.000000, 0.000000, 720.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 3, 6284, "bev_law2", "pierbild04_law", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 10, 3603, "bevmans01_la", "aamanbev1x", 0x00000000);
+tmpobjid = CreateDynamicObject(3486, 665.615600, -1528.411987, 21.003757, 0.000000, 0.000000, 630.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 4, 3653, "beachapts_lax", "eastwall4_LAe2", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 11, 18787, "matramps", "cardboard4-12", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 12, 18787, "matramps", "cardboard4-12", 0x00000000);
+tmpobjid = CreateDynamicObject(3484, 665.745605, -1498.199462, 20.436117, 0.000000, 0.000000, 270.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 4, 13691, "bevcunto2_lahills", "adeta", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 11, 5397, "barrio1_lae", "concretenewgery256", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 12, 5397, "barrio1_lae", "concretenewgery256", 0x00000000);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+tmpobjid = CreateDynamicObject(1226, 641.687255, -1504.285644, 17.819986, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1226, 641.687255, -1487.552124, 17.539978, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1226, 641.687255, -1470.051879, 17.359975, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
